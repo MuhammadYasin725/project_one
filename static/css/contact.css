@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.head {
+  background-image: url(/static/img/wallpapertip_windows-10-hd-wallpapers_768366.jpg);
+  width: 100%;
+}
